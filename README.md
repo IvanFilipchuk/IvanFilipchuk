@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ivan Filipchuk, and I'm a master's student at Krakow University of Technology. Currently, I'm diving deep into the world of Data Science, honing my analytical and programming skills essential for thriving in this field.
+My name is Ivan Filipchuk, and I'm a master's student at Cracow University of Technology. Currently, I'm diving deep into the world of Data Science, honing my analytical and programming skills essential for thriving in this field.
 
 ## 🔍 Seeking Opportunities
 
